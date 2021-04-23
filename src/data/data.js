@@ -1,0 +1,25 @@
+const allRecipesData = [
+    { id: 0, name: 'Biscuits', img: './images/biscuits.jpeg'},
+    { id: 1, name: 'Bulgogi', img: './images/bulgogi.jpeg'},
+    { id: 2, name: 'Calamari', img: './images/calamari.jpeg'},
+    { id: 3, name: 'Ceviche', img: './images/ceviche.jpeg'},
+    { id: 4, name: 'Cheeseburger', img: './images/cheeseburger.jpeg'},
+    { id: 5, name: 'Churrasco', img: './images/churrasco.jpeg'},
+    { id: 6, name: 'Dumplings', img: './images/dumplings.jpeg'},
+    { id: 7, name: 'Fish & Chips', img: './images/fishnchips.jpeg'},
+    { id: 8, name: 'Hummus', img: './images/hummus.jpeg'},
+    { id: 9, name: 'Masala Dosa', img: './images/masaladosa.jpeg'},
+    { id: 10, name: 'Pad Thai', img: './images/padthai.jpeg'},
+    { id: 11, name: 'Tonkatsu', img: './images/tonkatsu.jpeg'},
+    { id: 12, name: 'Pizza', img: './images/pizza.jpeg'},
+    { id: 13, name: 'Hot Dog', img: './images/hotdog.jpeg'},
+    { id: 14, name: 'Sausage', img: './images/sausage.jpeg'},
+    { id: 15, name: 'Curry', img: './images/curry.jpeg'},
+    { id: 16, name: 'Steak', img: '/images/steak.jpeg'},
+    { id: 17, name: 'Yakiniku', img: '/images/yakiniku.jpeg'},
+    { id: 18, name: 'Oyakodon', img: '/images/oyakodon.jpeg'},
+    { id: 19, name: 'Teishoku', img: '/images/teishoku.jpeg'},
+    { id: 20, name: 'Ramen', img: '/images/ramen.jpeg'},
+  ];
+  
+  export default allRecipesData;
