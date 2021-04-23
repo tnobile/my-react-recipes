@@ -15,11 +15,11 @@ const allRecipesData = [
     { id: 13, name: 'Hot Dog', img: './images/hotdog.jpeg'},
     { id: 14, name: 'Sausage', img: './images/sausage.jpeg'},
     { id: 15, name: 'Curry', img: './images/curry.jpeg'},
-    { id: 16, name: 'Steak', img: '/images/steak.jpeg'},
-    { id: 17, name: 'Yakiniku', img: '/images/yakiniku.jpeg'},
-    { id: 18, name: 'Oyakodon', img: '/images/oyakodon.jpeg'},
-    { id: 19, name: 'Teishoku', img: '/images/teishoku.jpeg'},
-    { id: 20, name: 'Ramen', img: '/images/ramen.jpeg'},
+    { id: 16, name: 'Steak', img: './images/steak.jpeg'},
+    { id: 17, name: 'Yakiniku', img: './images/yakiniku.jpeg'},
+    { id: 18, name: 'Oyakodon', img: './images/oyakodon.jpeg'},
+    { id: 19, name: 'Teishoku', img: './images/teishoku.jpeg'},
+    { id: 20, name: 'Ramen', img: './images/ramen.jpeg'},
   ];
   
   export default allRecipesData;
